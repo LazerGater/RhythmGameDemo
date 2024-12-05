@@ -1,7 +1,7 @@
 # RhythmGameDemo
- Demo of a Rhythm Game I made for Music 323 class at the University of Dayton.
- It uses the DryWetMIDI Library to create a basic DDR styled rhythm game that can read Midi files. 
- Here is the tutorial I followed and edited to create this demo: https://youtu.be/ev0HsmgLScg?si=F9QbyXe6tf-4hEkY
+ - Demo of a Rhythm Game I made for Music 323 class at the University of Dayton.
+ - It uses the DryWetMIDI Library to create a basic DDR styled rhythm game that can read Midi files. 
+ - Here is the tutorial I followed and edited to create this demo: https://youtu.be/ev0HsmgLScg?si=F9QbyXe6tf-4hEkY
 
 # Get Started
  1. Open the project up in Unity
